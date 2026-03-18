@@ -229,7 +229,7 @@ Each function should:
 In your terminal, navigate to the project folder and run:
 
 ```bash
-python -m unittest test_functions.py
+python3 -m unittest test_functions.py
 ```
 
 ---
@@ -239,7 +239,7 @@ python -m unittest test_functions.py
 To run a specific test:
 
 ```bash
-python -m unittest test_functions.TestFunctions.test_q1
+python3 -m unittest test_functions.TestFunctions.test_q1
 ```
 
 ---
